@@ -35,5 +35,5 @@
 <div class="github-card" data-github="kookmin-sw/2018-cap1-30" data-width="100%" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서확인하세요.
+공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서 확인하세요.
 
