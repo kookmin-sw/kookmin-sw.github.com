@@ -1,7 +1,11 @@
 ## Welcome to GitHub Pages
 
+<meta name="gc:client-id" content="a11a1bda412d928fb39a">
+<meta name="gc:client-secret" content="92b7cf30bc42c49d589a10372c3f9ff3bb310037">
 
 <div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-repo="kookmin-sw/2018-cap1-1" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-repo="kookmin-sw/2018-cap1-1" data-width="100%" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 You can use the [editor on GitHub](https://github.com/kookmin-sw/kookmin-sw.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
