@@ -4,24 +4,40 @@
 
 ## 일반분반
 
-<div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="100%" data-height="150" data-theme="default">
-  [2018-cap1-1](https://kookmin-sw.github.io/2018-cap1-1)
-</div>
-[2018-cap1-1](https://kookmin-sw.github.io/2018-cap1-1)
+[1조 소개 페이지](https://kookmin-sw.github.io/2018-cap1-1)
+<div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="100%" data-height="150" data-theme="default"></div>
+
+[2조 소개 페이지](https://kookmin-sw.github.io/2018-cap1-2)
 <div class="github-card" data-github="kookmin-sw/2018-cap1-2" data-width="100%" data-height="150" data-theme="default"></div>
+
+[3조 소개 페이지](https://kookmin-sw.github.io/2018-cap1-3)
 <div class="github-card" data-github="kookmin-sw/2018-cap1-3" data-width="100%" data-height="150" data-theme="default"></div>
+
+[4조 소개 페이지](https://kookmin-sw.github.io/2018-cap1-4)
 <div class="github-card" data-github="kookmin-sw/2018-cap1-4" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-5" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-6" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-7" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-8" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-9" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-10" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-11" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-12" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-13" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-14" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-15" data-width="100%" data-height="150" data-theme="default"></div>
+
 <div class="github-card" data-github="kookmin-sw/2018-cap1-16" data-width="100%" data-height="150" data-theme="default"></div>
 
 ## 산학분반
