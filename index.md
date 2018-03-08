@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+
+<div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="400" data-height="150" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 You can use the [editor on GitHub](https://github.com/kookmin-sw/kookmin-sw.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
