@@ -106,7 +106,7 @@
 [소개 페이지](https://kookmin-sw.github.io/2018-cap1-30){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2018-cap1-30" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-<script src="widget.js"></script>
+<script src="card/widget.js"></script>
 
 공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서 확인하세요.
 
