@@ -96,7 +96,7 @@
 
 ### 28조
 [소개 페이지](https://kookmin-sw.github.io/2018-cap1-28){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2018-cap1-28" data-width="100%" data-height="150" data-theme="default" data-target="blank"</div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-28" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 29조
 [소개 페이지](https://kookmin-sw.github.io/2018-cap1-29){:target="_blank"}
