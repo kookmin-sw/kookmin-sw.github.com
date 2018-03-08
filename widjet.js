@@ -1,5 +1,5 @@
 (function(d) {
-  var base = "//lab.lepture.com/github-cards/";
+  var base = "/";
 
   var i, count = 0;
 
@@ -53,7 +53,8 @@
     cardurl = cardurl || client_url;
     if (!cardurl) {
       var theme = querydata(card, 'theme') || client_theme || 'default';
-      cardurl = base + 'cards/' + theme + '.html';
+      //cardurl = base + 'cards/' + theme + '.html';
+      cardurl = base + 'card/card.html';
     }
     var user = querydata(card, 'user');
     var repo = querydata(card, 'repo');
