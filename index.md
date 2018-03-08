@@ -1,47 +1,39 @@
-## Welcome to GitHub Pages
-
 <meta name="gc:client-id" content="a11a1bda412d928fb39a">
 <meta name="gc:client-secret" content="92b7cf30bc42c49d589a10372c3f9ff3bb310037">
 
-<div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-repo="kookmin-sw/2018-cap1-1" data-width="400" data-height="150" data-theme="default"></div>
-<div class="github-card" data-repo="kookmin-sw/2018-cap1-1" data-width="100%" data-height="150" data-theme="default"></div>
-<div class="github-card" data-github="kookmin-sw/2018-cap1-2" data-width="400" data-height="150" data-theme="default"></div>
+
+## 일반분반
+
+<div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-2" data-width="100%" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="kookmin-sw/2018-cap1-3" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-4" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-5" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-6" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-7" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-8" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-9" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-10" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-11" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-12" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-13" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-14" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-15" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-16" data-width="100%" data-height="150" data-theme="default"></div>
+
+## 산학분반
+
+<div class="github-card" data-github="kookmin-sw/2018-cap1-21" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-22" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-23" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-24" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-25" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-26" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-27" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-28" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-29" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-30" data-width="100%" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/kookmin-sw.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서확인하세요.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/kookmin-sw.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
