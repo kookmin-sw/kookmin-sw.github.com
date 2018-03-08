@@ -5,8 +5,9 @@
 ## 일반분반
 
 <div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="100%" data-height="150" data-theme="default">
-  test
+  [2018-cap1-1](https://kookmin-sw.github.io/2018-cap1-1)
 </div>
+[2018-cap1-1](https://kookmin-sw.github.io/2018-cap1-1)
 <div class="github-card" data-github="kookmin-sw/2018-cap1-2" data-width="100%" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="kookmin-sw/2018-cap1-3" data-width="100%" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="kookmin-sw/2018-cap1-4" data-width="100%" data-height="150" data-theme="default"></div>
