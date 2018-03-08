@@ -6,6 +6,8 @@
 <div class="github-card" data-github="kookmin-sw/2018-cap1-1" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-repo="kookmin-sw/2018-cap1-1" data-width="400" data-height="150" data-theme="default"></div>
 <div class="github-card" data-repo="kookmin-sw/2018-cap1-1" data-width="100%" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-2" data-width="400" data-height="150" data-theme="default"></div>
+<div class="github-card" data-github="kookmin-sw/2018-cap1-3" data-width="100%" data-height="150" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 You can use the [editor on GitHub](https://github.com/kookmin-sw/kookmin-sw.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
