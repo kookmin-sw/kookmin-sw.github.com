@@ -23,7 +23,6 @@
 
 ## 산학분반
 
-<div class="github-card" data-github="kookmin-sw/2018-cap1-21" data-width="100%" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="kookmin-sw/2018-cap1-22" data-width="100%" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="kookmin-sw/2018-cap1-23" data-width="100%" data-height="150" data-theme="default"></div>
 <div class="github-card" data-github="kookmin-sw/2018-cap1-24" data-width="100%" data-height="150" data-theme="default"></div>
