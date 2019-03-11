@@ -108,6 +108,6 @@
 
 <script src="card/widget.js"></script>
 
-이전 프로젝트는 [이전  프로젝트](https://kookmin-sw.github.io/2018-cap1-30) 에서,
+이전 프로젝트는 [이전  프로젝트](https://kookmin-sw.github.io/2018/) 에서,
 공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서 확인하세요.
 
