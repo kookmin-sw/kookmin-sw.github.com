@@ -6,7 +6,7 @@
 
 ### 1조
 [소개 페이지](https://kookmin-sw.github.io/2019-cap1-2019_1){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2019-cap1-2019_1" data-width="100%" data-height="150" data-theme="default" data-target="blank" data-homepage="https://kookmin-sw.github.io/2018-cap1-1"></div>
+<div class="github-card" data-github="kookmin-sw/2019-cap1-2019_1" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 2조
 [소개 페이지](https://kookmin-sw.github.io/2019-cap1-2019_2){:target="_blank"}
