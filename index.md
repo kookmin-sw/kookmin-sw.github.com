@@ -103,6 +103,8 @@
 ### 25조
 [소개 페이지](https://kookmin-sw.github.io/2019-cap1-2019_25){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2019-cap1-2019_25" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+
 <script src="card/widget.js"></script>
 
 이전 프로젝트는 [이전  프로젝트](https://kookmin-sw.github.io/2018/) 에서,
