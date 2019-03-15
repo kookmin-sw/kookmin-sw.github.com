@@ -73,7 +73,7 @@
 <div class="github-card" data-github="kookmin-sw/2019-cap1-2019_17" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 18조
-[소개 페이지](https://kookmin-sw.github.io/2019-cap1-2019_18){:target="_blank"}
+[소개 페이지](https://github.com/kookmin-sw/2019-cap1-18){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2019-cap1-2019_18" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 19조
