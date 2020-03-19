@@ -79,7 +79,7 @@
 <div class="github-card" data-github="kookmin-sw/capstone-2020-17" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 18조
-[소개 페이지](https://github.com/kookmin-sw/capstone-2020-18){:target="_blank"}
+[소개 페이지](https://kookmin-sw.github.io/capstone-2020-18){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/capstone-2020-18" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 19조
