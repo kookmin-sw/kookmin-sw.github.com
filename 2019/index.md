@@ -102,7 +102,7 @@
 <div class="github-card" data-github="kookmin-sw/2019-cap1-2019_24" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 
-<script src="card/widget.js"></script>
+<script src="//kookmin-sw.github.io/card/widget.js"></script>
 
 이전 프로젝트는 [캡스톤소개페이지](https://kookmin-sw.github.io/2018/) 에서,
 공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서 확인하세요.
