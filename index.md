@@ -107,6 +107,32 @@
 <div class="github-card" data-github="kookmin-sw/capstone-2020-24" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 
+## 산학분반
+
+### 25조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2020-25){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2020-25" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 26조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2020-26){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2020-26" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 27조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2020-27){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2020-27" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 28조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2020-28){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2020-28" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 29조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2020-29){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2020-29" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 30조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2020-30){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2020-30" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
 <script src="card/widget.js"></script>
 
 공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서 확인하세요.
