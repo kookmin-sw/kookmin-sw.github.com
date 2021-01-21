@@ -1,5 +1,9 @@
 <meta name="gc:client-id" content="a11a1bda412d928fb39a">
 <meta name="gc:client-secret" content="92b7cf30bc42c49d589a10372c3f9ff3bb310037">
+
+
+공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서 확인하세요.
+
 # 이전프로젝트
 
    [2018캡스톤](https://kookmin-sw.github.io/2018/)
@@ -10,7 +14,6 @@
    
    [2020캡스톤 최종발표회](https://final.capstone.cs.kookmin.ac.kr/)
 
-공지사항이나 내용은 [캡스톤메인페이지](http://capstone.cs.kookmin.ac.kr/) 에서 확인하세요.
 
 # 2021년도 캡스톤디자인
 
