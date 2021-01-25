@@ -10,9 +10,7 @@
    
    [2019캡스톤](https://kookmin-sw.github.io/2019/)
    
-   [2020캡스톤](https://kookmin-sw.github.io/2020/)
-   
-   [2020캡스톤 최종발표회](https://final.capstone.cs.kookmin.ac.kr/)
+   [2020캡스톤](https://kookmin-sw.github.io/2020/)([2020캡스톤 최종발표회](https://final.capstone.cs.kookmin.ac.kr/))
 
 
 # 2021년도 캡스톤디자인
