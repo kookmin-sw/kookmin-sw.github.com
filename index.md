@@ -157,5 +157,17 @@
 [소개 페이지](https://kookmin-sw.github.io/capstone-2021-35){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/capstone-2021-35" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
+### 36조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2021-36){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2021-36" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 37조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2021-37){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2021-37" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 38조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2021-38){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2021-38" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
 <script src="card/widget.js"></script>
 
