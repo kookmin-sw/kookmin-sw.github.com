@@ -11,7 +11,7 @@
 
    [2020캡스톤](https://kookmin-sw.github.io/2020/)([2020캡스톤 최종발표회](https://2020.final.capstone.cs.kookmin.ac.kr/))
 
-   [2021캡스톤](https://kookmin-sw.github.io/2021/)([2021캡스톤 최종발표회](https://final.capstone.cs.kookmin.ac.kr/))
+   [2021캡스톤](https://kookmin-sw.github.io/2021/)([2021캡스톤 최종발표회](https://2021.final.capstone.cs.kookmin.ac.kr/))
 
 
 # 2022년도 캡스톤디자인
