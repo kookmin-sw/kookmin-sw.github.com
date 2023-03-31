@@ -139,21 +139,9 @@
 [소개 페이지](https://kookmin-sw.github.io/capstone-2023-32){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/capstone-2023-32" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 33조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2023-33){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2023-33" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
 ### 34조
 [소개 페이지](https://kookmin-sw.github.io/capstone-2023-34){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/capstone-2023-34" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 35조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2023-35){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2023-35" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 36조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2023-36){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2023-36" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 37조
 [소개 페이지](https://kookmin-sw.github.io/capstone-2023-37){:target="_blank"}
