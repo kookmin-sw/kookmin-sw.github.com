@@ -213,4 +213,12 @@
 [소개 페이지](https://kookmin-sw.github.io/capstone-2024-48){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/capstone-2024-48" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
+### 49조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2024-49){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2024-49" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 51조
+[소개 페이지](https://kookmin-sw.github.io/capstone-2024-51){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/capstone-2024-51" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
 <script src="card/widget.js"></script>
