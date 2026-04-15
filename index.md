@@ -5,7 +5,9 @@
 
 # 이전프로젝트
 
-   [2024캡스톤](https://kookmin-sw.github.io/2024/)([2023캡스톤 최종발표회](https://2024.final.capstone.cs.kookmin.ac.kr/))
+   [2025캡스톤](https://kookmin-sw.github.io/2025/)([2025캡스톤 최종발표회](https://2025.final.capstone.cs.kookmin.ac.kr/))
+
+   [2024캡스톤](https://kookmin-sw.github.io/2024/)([2024캡스톤 최종발표회](https://2024.final.capstone.cs.kookmin.ac.kr/))
 
    [2023캡스톤](https://kookmin-sw.github.io/2023/)([2023캡스톤 최종발표회](https://2023.final.capstone.cs.kookmin.ac.kr/))
 
@@ -24,185 +26,185 @@
 <!-- ## 일반분반 -->
 
 ### 1조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-01){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-01" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-01){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-01" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 2조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-02){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-02" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-02){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-02" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 3조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-03){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-03" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-03){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-03" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 4조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-04){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-04" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-04){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-04" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 5조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-05){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-05" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-05){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-05" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 6조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-06){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-06" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-06){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-06" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 7조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-07){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-07" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-07){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-07" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 8조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-08){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-08" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-08){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-08" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 9조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-09){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-09" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-09){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-09" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 10조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-10){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-10" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-10){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-10" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 11조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-11){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-11" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-11){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-11" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 12조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-12){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-12" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-12){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-12" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 13조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-13){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-13" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-13){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-13" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 14조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-14){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-14" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-14){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-14" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 15조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-15){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-15" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-15){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-15" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 16조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-16){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-16" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-16){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-16" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 17조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-17){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-17" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-17){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-17" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 18조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-18){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-18" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-18){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-18" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 19조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-19){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-19" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-19){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-19" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 20조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-20){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-20" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-20){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-20" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 21조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-21){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-21" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-21){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-21" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 22조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-22){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-22" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-22){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-22" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 23조 (폐번)
 
 ### 24조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-24){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-24" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-24){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-24" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 25조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-25){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-25" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-25){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-25" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 26조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-26){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-26" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-26){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-26" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 27조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-27){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-27" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-27){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-27" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 28조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-28){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-28" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-28){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-28" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 29조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-29){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-29" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-29){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-29" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 30조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-30){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-30" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-30){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-30" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 31조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-31){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-31" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-31){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-31" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 32조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-32){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-32" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-32){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-32" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 33조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-33){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-33" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-33){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-33" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 34조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-34){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-34" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-34){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-34" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 35조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-35){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-35" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-35){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-35" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 36조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-36){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-36" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-36){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-36" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 37조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-37){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-37" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-37){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-37" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 38조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-38){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-38" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-38){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-38" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 39조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-39){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-39" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-39){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-39" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 40조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-40){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-40" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-40){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-40" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 41조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-41){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-41" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-41){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-41" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 42조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-42){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-42" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-42){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-42" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 43조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-43){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-43" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-43){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-43" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 44조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-44){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-44" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-44){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-44" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 45조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-45){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-45" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-45){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-45" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 46조
-[소개 페이지](https://kookmin-sw.github.io/capstone-2025-46){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/capstone-2025-46" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-46){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-46" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 <script src="card/widget.js"></script>
