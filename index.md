@@ -30,11 +30,11 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-01){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-01" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 2조
+### 2조 TraceInspector
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-02){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-02" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 3조
+### 3조 Cultour
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-03){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-03" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
@@ -50,23 +50,23 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-06){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-06" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 7조
+### 7조 QUBU Pruning
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-07){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-07" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 8조
+### 8조 Eternal Mortis
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-08){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-08" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 9조
+### 9조flowMeet
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-09){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-09" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 10조
+### 10조 
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-10){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-10" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 11조
+### 11조 Call of the King
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-11){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-11" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
@@ -78,7 +78,7 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-13){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-13" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 14조
+### 14조 FitPlus
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-14){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-14" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
@@ -86,11 +86,11 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-15){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-15" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 16조
+### 16조 길벗
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-16){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-16" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 17조
+### 17조 FOCUS
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-17){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-17" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
@@ -106,23 +106,23 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-20){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-20" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 21조
+### 21조 Link:D Match
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-21){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-21" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 22조
+### 22조 ReadyTalk for Academy
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-22){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-22" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 23조
+### 23조 Luminir
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-23){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-23" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 24조
+### 24조 MU:RANG
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-24){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-24" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 25조
+### 25조 한발짝
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-25){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-25" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
@@ -134,7 +134,7 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-27){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-27" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 28조
+### 28조 Heroines of Storm
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-28){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-28" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
