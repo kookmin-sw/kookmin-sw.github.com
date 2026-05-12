@@ -24,6 +24,7 @@
 # 2025년도 캡스톤디자인
 
 <!-- ## 일반분반 -->
+## 일반/산학 교수지정 분반
 
 ### 1조
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-01){:target="_blank"}
@@ -113,7 +114,9 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-22){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-22" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 23조 (폐번)
+### 23조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-23){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-23" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 24조
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-24){:target="_blank"}
@@ -147,37 +150,7 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-31){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-31" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 32조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-32){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-32" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 33조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-33){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-33" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 34조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-34){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-34" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 35조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-35){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-35" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 36조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-36){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-36" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 37조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-37){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-37" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 38조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-38){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-38" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
-### 39조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-39){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-39" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+## 산학 교수지정 분반(팀티칭)
 
 ### 40조
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-40){:target="_blank"}
@@ -206,5 +179,73 @@
 ### 46조
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-46){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-46" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+## AWS 분반(1)
+
+### 51조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-51){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-51" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 52조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-52){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-52" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 53조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-53){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-53" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 54조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-54){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-54" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 55조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-55){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-55" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 56조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-56){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-56" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 57조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-57){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-57" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 58조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-58){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-58" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 59조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-59){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-58" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 60조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-60){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-58" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 61조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-61){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-61" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+## AWS 분반(2)
+
+### 81조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-81){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-81" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 82조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-82){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-82" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 83조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-83){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-83" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 84조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-84){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-84" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
+
+### 85조
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-85){:target="_blank"}
+<div class="github-card" data-github="kookmin-sw/2026-capstone-85" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 <script src="card/widget.js"></script>
