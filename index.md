@@ -176,10 +176,6 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-45){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-45" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 46조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-46){:target="_blank"}
-<div class="github-card" data-github="kookmin-sw/2026-capstone-46" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
-
 ## AWS 분반(1)
 
 ### 51조
