@@ -229,7 +229,7 @@
 <div class="github-card" data-github="kookmin-sw/2026-capstone-81" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 82조
-[소개 페이지](https://kookmin-sw.github.io/2026-capstone-82){:target="_blank"}
+[소개 페이지](https://kookmin-sw.github.io/2026-capstone-82/docs/){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-82" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
 ### 83조
