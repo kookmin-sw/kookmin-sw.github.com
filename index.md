@@ -134,11 +134,11 @@
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-27){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-27" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 28조 Heroines of Storm
+### 28조
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-28){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-28" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
-### 29조
+### 29조 Heroines of Storm
 [소개 페이지](https://kookmin-sw.github.io/2026-capstone-29){:target="_blank"}
 <div class="github-card" data-github="kookmin-sw/2026-capstone-29" data-width="100%" data-height="150" data-theme="default" data-target="blank"></div>
 
